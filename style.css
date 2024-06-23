@@ -1,0 +1,34 @@
+table { 
+    border: 1px solid black; 
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: rgb(8, 8, 8);
+    border-radius: 15px;
+    padding:5px
+} 
+
+input[type="button"] { 
+    width: 100%; 
+    padding: 10px 20px; 
+    background-color: rgb(90, 89, 87); 
+    color: white; 
+    font-size: 24px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 15px; 
+} 
+
+input[type="text"] { 
+    padding: 20px 10px; 
+    font-size: 24px; 
+    color:white;
+    font-weight: bold; 
+    border: none; 
+    border-radius: 15px; 
+    background-color: rgb(146, 146, 145);
+    border: 2px solid black; 
+} 
+input[value="C"]{
+    background-color:rgb(196, 131, 10);
+    padding:20px;
+}
